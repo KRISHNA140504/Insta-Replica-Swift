@@ -10,7 +10,7 @@
     <h2>Installation</h2>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone [repository_url]</code></pre>
+        <pre><code>git clone https://github.com/KRISHNA140504/Insta-Replica-Swift.git</code></pre>
         <li>Navigate to the project directory:</li>
         <pre><code>cd insta-replica</code></pre>
         <li>Open the project in Xcode:</li>
